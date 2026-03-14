@@ -1,0 +1,9 @@
+CREATE TABLE discord_maps (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    discord_user VARCHAR(100),
+    map_name VARCHAR(255),
+    map_file VARCHAR(255),
+    source_url TEXT,
+    file_size INT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

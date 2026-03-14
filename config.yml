@@ -1,0 +1,19 @@
+discord:
+  token: 
+  channel_name: 
+database:
+  host: 
+  name: 
+  user: 
+  password: 
+paths:
+  maps_dir: 
+maps:
+  max_size_mb: 130
+  allowed_extensions:
+  - .w3x
+  - .w3m
+limits:
+  downloads_per_minute: 3
+ui:
+  bot_name: Azzlaer

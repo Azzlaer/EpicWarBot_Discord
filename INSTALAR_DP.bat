@@ -1,0 +1,1 @@
+pip install customtkinter pystray pillow mysql-connector-python pyyaml
