@@ -1,13 +1,13 @@
 discord:
-  token: 
-  channel_name: 
+  token: token de tu app
+  channel_name: NOMBRE O ID DE TU CANAL DE DISCORD
 database:
-  host: 
-  name: 
-  user: 
-  password: 
+  host: tuservidor
+  name: nombre de la base de datos
+  user: usuario de la base de datos
+  password: contraseña de la base de datos
 paths:
-  maps_dir: 
+  maps_dir: en donde se alojaran los mapas
 maps:
   max_size_mb: 130
   allowed_extensions:
@@ -16,4 +16,4 @@ maps:
 limits:
   downloads_per_minute: 3
 ui:
-  bot_name: Azzlaer
+  bot_name: EpicWar
